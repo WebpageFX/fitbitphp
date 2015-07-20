@@ -30,7 +30,6 @@
         "psr-0": {
             "fitbitphp": "src"
         },
-        "classmap" : ["Fitbitphp.php"]
     },
     "extra": {
         "branch-alias": {
